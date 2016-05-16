@@ -4,3 +4,4 @@ change 3
 change 4
 change 5 in the branch
 change 6 from branch
+change 6
